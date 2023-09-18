@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Bio
 
 🔭 I’m interested on a different aspects of ML and really inspired by recent decade of achivments in this area. Moreover, I am not afraid of this and believe that the open letter asking to suspend AI (https://futureoflife.org/open-letter/pause-giant-ai-experiments/) simply shows fear at the moment of approaching the phase transition of society.  
