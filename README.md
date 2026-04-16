@@ -5,7 +5,7 @@
 ## Navigation
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 0DOCS.
+- 🔭 I’m currently working on [Solea AI](https://solea.ai/). Next, as a pest control startup superstart, we raised an impressive seed round. 
 - 🌱 I’m currently learning AI agents
-- 👯 I’m looking to collaborate on https://www.overvu.solutions/
+- 👯 I’m looking to collaborate on https://www.prefixtree.xyz/
 - 🤔 My CV: https://github.com/bsnisar/cv
